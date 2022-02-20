@@ -4,6 +4,7 @@
 
 <!-- code_chunk_output -->
 
+- [Django](#django)
   - [What is Django](#what-is-django)
   - [Setting up development environment](#setting-up-development-environment)
   - [Creating Django boilerplate environment](#creating-django-boilerplate-environment)
@@ -12,12 +13,14 @@
   - [Django Templates](#django-templates)
 - [Django Rest Framework](#django-rest-framework)
   - [Installation](#installation)
+  - [Serializing Data](#serializing-data)
 
 <!-- /code_chunk_output -->
 
 <hr>
 
-https://open.spotify.com/track/2JhU9tkEJqUsjjr37cIpdG?si=fc6e345c6f764967# Django
+# Django
+
 ## What is Django
 - free open source framework for building web applications with python
     - less time & less code compared to other frameworks
